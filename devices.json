@@ -1,14 +1,12 @@
-[
-  {
-    "key": "bike_iphone15_angle01",
-    "title": "iPhone on Bike – Angled",
-    "photo": "assets/bike_iphone15_angle01_photo.jpg",
-    "mask": "assets/bike_iphone15_angle01_mask.png",
-    "screenQuad": [
-      { "x": 323, "y": 190 },
-      { "x": 579, "y": 158 },
-      { "x": 609, "y": 532 },
-      { "x": 354, "y": 570 }
-    ]
-  }
-]
+{
+  "key": "lifestyle_phone_1",
+  "title": "Lifestyle Phone 1",
+  "photo": "https://eedline.github.io/FIgma/assets/lifestyle_phone_1_image.jpg",
+  "mask": "https://eedline.github.io/FIgma/assets/lifestyle_phone_1_mask.png",
+  "screenQuad": [
+    { "x": 473, "y": 165 },
+    { "x": 691, "y": 189 },
+    { "x": 657, "y": 700 },
+    { "x": 448, "y": 676 }
+  ]
+}
