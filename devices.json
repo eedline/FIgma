@@ -1,0 +1,14 @@
+[
+  {
+    "key": "bike_iphone15_angle01",
+    "title": "iPhone on Bike – Angled",
+    "photo": "assets/bike_iphone15_angle01_photo.jpg",
+    "mask": "assets/bike_iphone15_angle01_mask.png",
+    "screenQuad": [
+      { "x": 323, "y": 190 },
+      { "x": 579, "y": 158 },
+      { "x": 609, "y": 532 },
+      { "x": 354, "y": 570 }
+    ]
+  }
+]
